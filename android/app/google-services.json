@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "62620054519",
+    "project_id": "tember-cf75c",
+    "storage_bucket": "tember-cf75c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62620054519:android:49ce215df650861858f4f2",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62620054519-2anhfj4qfs2jbhen4019h4a1jimslgos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tiktok_clone",
+            "certificate_hash": "1c202862c940672801b1070075507c54a77cc687"
+          }
+        },
+        {
+          "client_id": "62620054519-7mdre2cvb3c6bkq66fkgur76eqqgr3u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMNmoibr_0qSSSJKS6HByydBIw3O0KnLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62620054519-7mdre2cvb3c6bkq66fkgur76eqqgr3u5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62620054519-nvoublme84n9ebrhir40mftcnos27uae.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.nomadcoders.tiktok"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
